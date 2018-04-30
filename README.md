@@ -36,7 +36,7 @@ Group Issue
 
 Issue #1170: Unit Conversion Logic Adapter
 https://github.com/gunthercox/ChatterBot/issues/1170
-Chris Lenoci//Paul Hanlon
+Chris Lenoci // Paul Hanlon
 
 Issue # 1277: Datetime parsing does not recognize am/pm
 https://github.com/gunthercox/ChatterBot/issues/1277
