@@ -10,6 +10,12 @@ A machine learning conversation bot
 https://github.com/gunthercox/ChatterBot
 
 
+Instructions on how to run ChatterBot:
+
+
+
+
+
 Issues we worked on:
 
 Issue #682: Slack Input/Output Adapter
