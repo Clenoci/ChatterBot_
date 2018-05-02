@@ -21,28 +21,42 @@ Issues we worked on:
 Issue #682: Slack Input/Output Adapter
 https://github.com/gunthercox/ChatterBot/issues/682
 Andrew Marchisio // Paul Hanlon
+Branch:SlackInputOutputAdapter
+Files: 
 
 Issue #38: Weight responses by Identity 
 https://github.com/gunthercox/ChatterBot/issues/38
 Chris Lenoci
+Branch:
+Files:
 
 Issue #1255: Get a list of all responses to a statement
 https://github.com/gunthercox/ChatterBot/issues/1255
 Mark Hawker
+Branch:
+Files:
 
 Issue #962: Send multiple responses for a single input
 https://github.com/gunthercox/ChatterBot/issues/962
 Group Issue
+Branch:
+Files:
 
 Issue #1170: Unit Conversion Logic Adapter
 https://github.com/gunthercox/ChatterBot/issues/1170 
 Paul Hanlon
+Branch:
+Files:
 
 Issue # 1277: Datetime parsing does not recognize am/pm
 https://github.com/gunthercox/ChatterBot/issues/1277
 Chris Lenoci
+Branch:
+Files:
 
 Issue #920: Feedback example 
 https://github.com/gunthercox/ChatterBot/issues/920
 Andrew Marchisio
+Branch:
+Files:
 
