@@ -52,6 +52,7 @@ Andrew Marchisio // Paul Hanlon
 Branch:SlackInputOutputAdapter  
 Files: ChatterBot-master/chatterbot/Input/
 Paul added: startbot_with8ball.py
+Andrew added: startbot.py (w/ input adapter)
 
 
 Issue #38: Weight responses by Identity 
@@ -80,15 +81,15 @@ Files: PH_UnitAdapter.py
 Chris added:  
 Files: unit_conversion.py 
 
-Issue # 1277: Datetime parsing does not recognize am/pm
+Issue #1277: Datetime parsing does not recognize am/pm
 https://github.com/gunthercox/ChatterBot/issues/1277
 Chris Lenoci
 Branch: ChatterBot-master/chatterbot/parsing.py   
 Files: parsing.py 
 
-Issue #920: Feedback example 
+Issue #920: Feedback Example 
 https://github.com/gunthercox/ChatterBot/issues/920
 Andrew Marchisio
-Branch:   
-Files:
+Branch: ChatterBot-master/chatterbot/feedback.py
+Files: feedback.py
 
