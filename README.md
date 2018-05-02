@@ -23,6 +23,7 @@ https://github.com/gunthercox/ChatterBot/issues/682
 Andrew Marchisio // Paul Hanlon
 Branch:SlackInputOutputAdapter  
 Files: ChatterBot-master/chatterbot/Input/
+Paul added: startbot_with8ball.py
 
 
 Issue #38: Weight responses by Identity 
@@ -47,7 +48,7 @@ Issue #1170: Unit Conversion Logic Adapter
 https://github.com/gunthercox/ChatterBot/issues/1170 
 Paul Hanlon
 Branch:ChatterBot-master/chatterbot/logic/PH_UnitAdapter  
-Files:PH_UnitAdapter  
+Files: PH_UnitAdapter.py  
 Chris added:  
 Files: unit_conversion.py 
 
