@@ -34,7 +34,7 @@ Issue #1255: Get a list of all responses to a statement
 https://github.com/gunthercox/ChatterBot/issues/1255
 Mark Hawker
 Branch: GetAll
-Files: AllResponse.py
+Files: ChatterBot-master/chatterbot/logic/AllResponse.py
 
 Issue #962: Send multiple responses for a single input
 https://github.com/gunthercox/ChatterBot/issues/962
