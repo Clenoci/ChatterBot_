@@ -40,7 +40,7 @@ chatbot.train("chatterbot.corpus.english")
 # Get a response to an input statement
 chatbot.get_response("Hello, how are you today?")
 
-
+```
 
 
 
