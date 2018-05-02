@@ -21,15 +21,15 @@ Issues we worked on:
 Issue #682: Slack Input/Output Adapter
 https://github.com/gunthercox/ChatterBot/issues/682
 Andrew Marchisio // Paul Hanlon
-Branch:SlackInputOutputAdapter
+Branch:SlackInputOutputAdapter  
 Files: ChatterBot-master/chatterbot/Input/
 
 
 Issue #38: Weight responses by Identity 
 https://github.com/gunthercox/ChatterBot/issues/38
 Chris Lenoci
-Branch: 
-Files:  
+Branch:
+Files:
 
 Issue #1255: Get a list of all responses to a statement
 https://github.com/gunthercox/ChatterBot/issues/1255
@@ -46,7 +46,7 @@ Files: Multiple_Responses.py
 Issue #1170: Unit Conversion Logic Adapter
 https://github.com/gunthercox/ChatterBot/issues/1170 
 Paul Hanlon
-Branch:ChatterBot-master/chatterbot/logic/PH_UnitAdapter
+Branch:ChatterBot-master/chatterbot/logic/PH_UnitAdapter  
 Files:PH_UnitAdapter  
 Chris added:  
 Files: unit_conversion.py 
@@ -54,7 +54,7 @@ Files: unit_conversion.py
 Issue # 1277: Datetime parsing does not recognize am/pm
 https://github.com/gunthercox/ChatterBot/issues/1277
 Chris Lenoci
-Branch: ChatterBot-master/chatterbot/parsing.py 
+Branch: ChatterBot-master/chatterbot/parsing.py   
 Files: parsing.py 
 
 Issue #920: Feedback example 
