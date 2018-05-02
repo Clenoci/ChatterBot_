@@ -40,7 +40,7 @@ Files: ChatterBot-master/chatterbot/logic/AllResponse.py
 Issue #962: Send multiple responses for a single input
 https://github.com/gunthercox/ChatterBot/issues/962
 Group Issue 
-Branch:ChatterBot-master/chatterbot/logic/Multiple_Responses.py 
+Branch:ChatterBot-master/chatterbot/logic/Multiple_Responses.py  
 Files: Multiple_Responses.py  
 
 Issue #1170: Unit Conversion Logic Adapter
