@@ -28,7 +28,7 @@ Files: ChatterBot-master/chatterbot/Input/
 Issue #38: Weight responses by Identity 
 https://github.com/gunthercox/ChatterBot/issues/38
 Chris Lenoci
-Branch:
+\nBranch:
 Files:
 
 Issue #1255: Get a list of all responses to a statement
